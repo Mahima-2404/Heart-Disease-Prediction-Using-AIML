@@ -44,7 +44,7 @@ MLP improved accuracy .
 * Enhance *explainability* using LIME or SHAP
 * Pilot in clinical settings—for real-world validation
 
-### 9. Contributing
+### 7. Contributing
 
 Contributions are welcome! Please fork the repo and submit a PR.
 
